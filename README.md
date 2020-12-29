@@ -1,7 +1,8 @@
 
+
 # EdgeNILM: Towards NILM on Edge Devices
 
-This is the codebase our paper published in [Buildsys 2020].
+This is the codebase to our [paper](https://dl.acm.org/doi/10.1145/3408308.3427977) published in Buildsys 2020.
 
 
 We have used the `trainer.py` script to train the model, you can use it in the following way
@@ -18,7 +19,7 @@ We have used the `trainer.py` script to train the model, you can use it in the f
 **Please note that, in order to execute the `fully_shared_mtl_pruning` and `fully_shared_mtl_iterative_pruning`, you first need to train the `fully_shared_mtl`**
 
 
-You can find the models we used to train here (Link will be posted to the google drive by November 30, 2020).
+You can find the models we used to train [here](https://iitgnacin-my.sharepoint.com/:f:/g/personal/nipun_batra_iitgn_ac_in/EuSei4PiCvZDgEcUtWzO7-ABsfTWzWvms_c3AVgdOuYoLw?e=9k1lbb).
 
 **Once you finish training the model or after downloading the pre-trained models, you can do the following:**
 
